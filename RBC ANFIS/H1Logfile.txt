@@ -1,0 +1,687 @@
+29-Mar-2020 13:35:59: H1: UI "Load Image" botton pressed
+29-Mar-2020 13:36:06: H1: "updatesmearimage" function called
+29-Mar-2020 13:36:15: H1: segmentation process started.
+29-Mar-2020 13:36:15: H1: "preanalysimage" function called.
+29-Mar-2020 13:36:15: H1: "bloodsmearbinarization" function called.
+29-Mar-2020 13:36:36: H1: "bloodsmearbinarization" function called.
+29-Mar-2020 13:36:37: H1: "rgb2cmyk" function called.
+29-Mar-2020 13:36:37: H1: "preanalysimage" function execution finished.
+29-Mar-2020 13:36:37: app.targetImage.connectedComponents.NumObjects : 93
+29-Mar-2020 13:36:37: H1: "analysproperties" function called. Number of objects > 93
+29-Mar-2020 13:36:37: H1: analysproperties: offsetType is offset0
+29-Mar-2020 13:36:37: H1: "singleregionsegmentor" function called for region no: 1
+29-Mar-2020 13:36:39: H1>singleregionsegmentor: Hough Transform Analysis for region no: 1 detected 1 centers
+29-Mar-2020 13:36:39: H1>singleregionsegmentor: Watershed Analysis for region no: 1 started
+29-Mar-2020 13:36:39: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:36:40: H1>analysproperties: "singleregionsegmentor" function called for main region no 1
+29-Mar-2020 13:36:40: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 1 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:36:40: H1>analysproperties: GLCM calculated for sub-region 1_region no: 1
+29-Mar-2020 13:36:40: H1: "singleregionsegmentor" function called for region no: 2
+29-Mar-2020 13:36:41: H1>singleregionsegmentor: Hough Transform Analysis for region no: 2 detected 2 centers
+29-Mar-2020 13:36:41: H1>singleregionsegmentor: Watershed Analysis for region no: 2 started
+29-Mar-2020 13:36:41: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 2
+29-Mar-2020 13:36:41: H1>singleregionsegmentor: Watershed Analysis results-> RBC:2
+29-Mar-2020 13:36:41: H1>analysproperties: "singleregionsegmentor" function called for main region no 2
+29-Mar-2020 13:36:41: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 2 & singleRegionAnalysisResult numObjects:2
+29-Mar-2020 13:36:41: H1>analysproperties: GLCM calculated for sub-region 1_region no: 2
+29-Mar-2020 13:36:41: H1>analysproperties: Is sub-region 2 that "singleregionsegmentor" function detected, an RBC?_region no: 2 & singleRegionAnalysisResult numObjects:2
+29-Mar-2020 13:36:41: H1>analysproperties: GLCM calculated for sub-region 2_region no: 2
+29-Mar-2020 13:36:42: H1: "singleregionsegmentor" function called for region no: 3
+29-Mar-2020 13:36:42: H1>singleregionsegmentor: Hough Transform Analysis for region no: 3 detected 1 centers
+29-Mar-2020 13:36:42: H1>singleregionsegmentor: Watershed Analysis for region no: 3 started
+29-Mar-2020 13:36:42: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:36:42: H1>analysproperties: "singleregionsegmentor" function called for main region no 3
+29-Mar-2020 13:36:42: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 3 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:36:42: H1>analysproperties: GLCM calculated for sub-region 1_region no: 3
+29-Mar-2020 13:36:42: H1: "singleregionsegmentor" function called for region no: 4
+29-Mar-2020 13:36:42: H1>singleregionsegmentor: Hough Transform Analysis for region no: 4 detected 1 centers
+29-Mar-2020 13:36:42: H1>singleregionsegmentor: Watershed Analysis for region no: 4 started
+29-Mar-2020 13:36:42: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:36:43: H1>analysproperties: "singleregionsegmentor" function called for main region no 4
+29-Mar-2020 13:36:43: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 4 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:36:43: H1>analysproperties: GLCM calculated for sub-region 1_region no: 4
+29-Mar-2020 13:36:43: H1: "singleregionsegmentor" function called for region no: 5
+29-Mar-2020 13:36:43: H1>singleregionsegmentor: Hough Transform Analysis for region no: 5 detected 1 centers
+29-Mar-2020 13:36:43: H1>singleregionsegmentor: Watershed Analysis for region no: 5 started
+29-Mar-2020 13:36:43: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:36:43: H1>analysproperties: "singleregionsegmentor" function called for main region no 5
+29-Mar-2020 13:36:43: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 5 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:36:43: H1>analysproperties: GLCM calculated for sub-region 1_region no: 5
+29-Mar-2020 13:36:43: H1: "singleregionsegmentor" function called for region no: 6
+29-Mar-2020 13:36:43: H1>singleregionsegmentor: Hough Transform Analysis for region no: 6 detected 2 centers
+29-Mar-2020 13:36:43: H1>singleregionsegmentor: Watershed Analysis for region no: 6 started
+29-Mar-2020 13:36:43: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:36:43: H1>analysproperties: "singleregionsegmentor" function called for main region no 6
+29-Mar-2020 13:36:43: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 6 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:36:44: H1>analysproperties: GLCM calculated for sub-region 1_region no: 6
+29-Mar-2020 13:36:44: H1: "singleregionsegmentor" function called for region no: 7
+29-Mar-2020 13:36:44: H1>singleregionsegmentor: Hough Transform Analysis for region no: 7 detected 1 centers
+29-Mar-2020 13:36:44: H1>singleregionsegmentor: Watershed Analysis for region no: 7 started
+29-Mar-2020 13:36:44: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:36:44: H1>analysproperties: "singleregionsegmentor" function called for main region no 7
+29-Mar-2020 13:36:44: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 7 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:36:44: H1>analysproperties: GLCM calculated for sub-region 1_region no: 7
+29-Mar-2020 13:36:44: H1: "singleregionsegmentor" function called for region no: 8
+29-Mar-2020 13:36:44: H1>singleregionsegmentor: Hough Transform Analysis for region no: 8 detected 1 centers
+29-Mar-2020 13:36:44: H1>singleregionsegmentor: Watershed Analysis for region no: 8 started
+29-Mar-2020 13:36:44: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:36:44: H1>analysproperties: "singleregionsegmentor" function called for main region no 8
+29-Mar-2020 13:36:44: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 8 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:36:44: H1>analysproperties: GLCM calculated for sub-region 1_region no: 8
+29-Mar-2020 13:36:44: H1: "singleregionsegmentor" function called for region no: 9
+29-Mar-2020 13:36:45: H1>singleregionsegmentor: Hough Transform Analysis for region no: 9 detected 1 centers
+29-Mar-2020 13:36:45: H1>singleregionsegmentor: Watershed Analysis for region no: 9 started
+29-Mar-2020 13:36:45: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:36:45: H1>analysproperties: "singleregionsegmentor" function called for main region no 9
+29-Mar-2020 13:36:45: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 9 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:36:45: H1>analysproperties: GLCM calculated for sub-region 1_region no: 9
+29-Mar-2020 13:36:45: H1: "singleregionsegmentor" function called for region no: 10
+29-Mar-2020 13:36:45: H1>singleregionsegmentor: Hough Transform Analysis for region no: 10 detected 1 centers
+29-Mar-2020 13:36:45: H1>singleregionsegmentor: Watershed Analysis for region no: 10 started
+29-Mar-2020 13:36:45: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:36:45: H1>analysproperties: "singleregionsegmentor" function called for main region no 10
+29-Mar-2020 13:36:45: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 10 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:36:45: H1>analysproperties: GLCM calculated for sub-region 1_region no: 10
+29-Mar-2020 13:36:45: H1: "singleregionsegmentor" function called for region no: 11
+29-Mar-2020 13:36:45: H1>singleregionsegmentor: Hough Transform Analysis for region no: 11 detected 1 centers
+29-Mar-2020 13:36:45: H1>singleregionsegmentor: Watershed Analysis for region no: 11 started
+29-Mar-2020 13:36:45: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:36:45: H1>analysproperties: "singleregionsegmentor" function called for main region no 11
+29-Mar-2020 13:36:45: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 11 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:36:45: H1>analysproperties: GLCM calculated for sub-region 1_region no: 11
+29-Mar-2020 13:36:45: H1: "singleregionsegmentor" function called for region no: 12
+29-Mar-2020 13:36:46: H1>singleregionsegmentor: Hough Transform Analysis for region no: 12 detected 1 centers
+29-Mar-2020 13:36:46: H1>singleregionsegmentor: Watershed Analysis for region no: 12 started
+29-Mar-2020 13:36:46: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:36:46: H1>analysproperties: "singleregionsegmentor" function called for main region no 12
+29-Mar-2020 13:36:46: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 12 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:36:46: H1>analysproperties: GLCM calculated for sub-region 1_region no: 12
+29-Mar-2020 13:36:46: H1: "singleregionsegmentor" function called for region no: 13
+29-Mar-2020 13:36:46: H1>singleregionsegmentor: Hough Transform Analysis for region no: 13 detected 2 centers
+29-Mar-2020 13:36:46: H1>singleregionsegmentor: Watershed Analysis for region no: 13 started
+29-Mar-2020 13:36:46: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 2
+29-Mar-2020 13:36:46: H1>singleregionsegmentor: Watershed Analysis results-> RBC:2
+29-Mar-2020 13:36:46: H1>analysproperties: "singleregionsegmentor" function called for main region no 13
+29-Mar-2020 13:36:46: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 13 & singleRegionAnalysisResult numObjects:2
+29-Mar-2020 13:36:46: H1>analysproperties: GLCM calculated for sub-region 1_region no: 13
+29-Mar-2020 13:36:46: H1>analysproperties: Is sub-region 2 that "singleregionsegmentor" function detected, an RBC?_region no: 13 & singleRegionAnalysisResult numObjects:2
+29-Mar-2020 13:36:46: H1>analysproperties: GLCM calculated for sub-region 2_region no: 13
+29-Mar-2020 13:36:46: H1: "singleregionsegmentor" function called for region no: 14
+29-Mar-2020 13:36:47: H1>singleregionsegmentor: Hough Transform Analysis for region no: 14 detected 1 centers
+29-Mar-2020 13:36:47: H1>singleregionsegmentor: Watershed Analysis for region no: 14 started
+29-Mar-2020 13:36:47: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:36:47: H1>analysproperties: "singleregionsegmentor" function called for main region no 14
+29-Mar-2020 13:36:47: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 14 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:36:47: H1>analysproperties: GLCM calculated for sub-region 1_region no: 14
+29-Mar-2020 13:36:47: H1: "singleregionsegmentor" function called for region no: 15
+29-Mar-2020 13:36:47: H1>singleregionsegmentor: Hough Transform Analysis for region no: 15 detected 1 centers
+29-Mar-2020 13:36:47: H1>singleregionsegmentor: Watershed Analysis for region no: 15 started
+29-Mar-2020 13:36:47: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:36:47: H1>analysproperties: "singleregionsegmentor" function called for main region no 15
+29-Mar-2020 13:36:47: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 15 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:36:47: H1>analysproperties: GLCM calculated for sub-region 1_region no: 15
+29-Mar-2020 13:36:47: H1: "singleregionsegmentor" function called for region no: 16
+29-Mar-2020 13:36:48: H1>singleregionsegmentor: Hough Transform Analysis for region no: 16 detected 1 centers
+29-Mar-2020 13:36:48: H1>singleregionsegmentor: Watershed Analysis for region no: 16 started
+29-Mar-2020 13:36:48: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:36:48: H1>analysproperties: "singleregionsegmentor" function called for main region no 16
+29-Mar-2020 13:36:48: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 16 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:36:48: H1>analysproperties: GLCM calculated for sub-region 1_region no: 16
+29-Mar-2020 13:36:48: H1: "singleregionsegmentor" function called for region no: 17
+29-Mar-2020 13:36:48: H1>singleregionsegmentor: Hough Transform Analysis for region no: 17 detected 1 centers
+29-Mar-2020 13:36:48: H1>singleregionsegmentor: Watershed Analysis for region no: 17 started
+29-Mar-2020 13:36:48: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:36:48: H1>analysproperties: "singleregionsegmentor" function called for main region no 17
+29-Mar-2020 13:36:48: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 17 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:36:48: H1>analysproperties: GLCM calculated for sub-region 1_region no: 17
+29-Mar-2020 13:36:48: H1: "singleregionsegmentor" function called for region no: 18
+29-Mar-2020 13:36:48: H1>singleregionsegmentor: Hough Transform Analysis for region no: 18 detected 1 centers
+29-Mar-2020 13:36:48: H1>singleregionsegmentor: Watershed Analysis for region no: 18 started
+29-Mar-2020 13:36:48: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:36:48: H1>analysproperties: "singleregionsegmentor" function called for main region no 18
+29-Mar-2020 13:36:48: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 18 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:36:48: H1>analysproperties: GLCM calculated for sub-region 1_region no: 18
+29-Mar-2020 13:36:48: H1: "singleregionsegmentor" function called for region no: 19
+29-Mar-2020 13:36:49: H1>singleregionsegmentor: Hough Transform Analysis for region no: 19 detected 1 centers
+29-Mar-2020 13:36:49: H1>singleregionsegmentor: Watershed Analysis for region no: 19 started
+29-Mar-2020 13:36:49: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:36:49: H1>analysproperties: "singleregionsegmentor" function called for main region no 19
+29-Mar-2020 13:36:49: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 19 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:36:49: H1>analysproperties: GLCM calculated for sub-region 1_region no: 19
+29-Mar-2020 13:36:49: H1: "singleregionsegmentor" function called for region no: 20
+29-Mar-2020 13:36:49: H1>singleregionsegmentor: Hough Transform Analysis for region no: 20 detected 1 centers
+29-Mar-2020 13:36:49: H1>singleregionsegmentor: Watershed Analysis for region no: 20 started
+29-Mar-2020 13:36:49: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:36:49: H1>analysproperties: "singleregionsegmentor" function called for main region no 20
+29-Mar-2020 13:36:49: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 20 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:36:49: H1>analysproperties: GLCM calculated for sub-region 1_region no: 20
+29-Mar-2020 13:36:49: H1: "singleregionsegmentor" function called for region no: 21
+29-Mar-2020 13:36:49: H1>singleregionsegmentor: Hough Transform Analysis for region no: 21 detected 1 centers
+29-Mar-2020 13:36:49: H1>singleregionsegmentor: Watershed Analysis for region no: 21 started
+29-Mar-2020 13:36:49: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:36:49: H1>analysproperties: "singleregionsegmentor" function called for main region no 21
+29-Mar-2020 13:36:49: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 21 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:36:49: H1>analysproperties: GLCM calculated for sub-region 1_region no: 21
+29-Mar-2020 13:36:49: H1: "singleregionsegmentor" function called for region no: 22
+29-Mar-2020 13:36:50: H1>singleregionsegmentor: Hough Transform Analysis for region no: 22 detected 3 centers
+29-Mar-2020 13:36:50: H1>singleregionsegmentor: Watershed Analysis for region no: 22 started
+29-Mar-2020 13:36:50: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 2
+29-Mar-2020 13:36:50: H1>singleregionsegmentor: Watershed Analysis results-> RBC:2
+29-Mar-2020 13:36:50: H1>analysproperties: "singleregionsegmentor" function called for main region no 22
+29-Mar-2020 13:36:50: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 22 & singleRegionAnalysisResult numObjects:2
+29-Mar-2020 13:36:50: H1>analysproperties: GLCM calculated for sub-region 1_region no: 22
+29-Mar-2020 13:36:50: H1>analysproperties: Is sub-region 2 that "singleregionsegmentor" function detected, an RBC?_region no: 22 & singleRegionAnalysisResult numObjects:2
+29-Mar-2020 13:36:50: H1>analysproperties: GLCM calculated for sub-region 2_region no: 22
+29-Mar-2020 13:36:50: H1: "singleregionsegmentor" function called for region no: 23
+29-Mar-2020 13:36:50: H1>singleregionsegmentor: Hough Transform Analysis for region no: 23 detected 1 centers
+29-Mar-2020 13:36:50: H1>singleregionsegmentor: Watershed Analysis for region no: 23 started
+29-Mar-2020 13:36:50: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:36:50: H1>analysproperties: "singleregionsegmentor" function called for main region no 23
+29-Mar-2020 13:36:50: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 23 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:36:50: H1>analysproperties: GLCM calculated for sub-region 1_region no: 23
+29-Mar-2020 13:36:50: H1: "singleregionsegmentor" function called for region no: 24
+29-Mar-2020 13:36:51: H1>singleregionsegmentor: Hough Transform Analysis for region no: 24 detected 1 centers
+29-Mar-2020 13:36:51: H1>singleregionsegmentor: Watershed Analysis for region no: 24 started
+29-Mar-2020 13:36:51: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:36:51: H1>analysproperties: "singleregionsegmentor" function called for main region no 24
+29-Mar-2020 13:36:51: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 24 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:36:51: H1>analysproperties: GLCM calculated for sub-region 1_region no: 24
+29-Mar-2020 13:36:51: H1: "singleregionsegmentor" function called for region no: 25
+29-Mar-2020 13:36:51: H1>singleregionsegmentor: Hough Transform Analysis for region no: 25 detected 1 centers
+29-Mar-2020 13:36:51: H1>singleregionsegmentor: Watershed Analysis for region no: 25 started
+29-Mar-2020 13:36:51: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:36:51: H1>analysproperties: "singleregionsegmentor" function called for main region no 25
+29-Mar-2020 13:36:51: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 25 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:36:51: H1>analysproperties: GLCM calculated for sub-region 1_region no: 25
+29-Mar-2020 13:36:51: H1: "singleregionsegmentor" function called for region no: 26
+29-Mar-2020 13:36:52: H1>singleregionsegmentor: Hough Transform Analysis for region no: 26 detected 2 centers
+29-Mar-2020 13:36:52: H1>singleregionsegmentor: Watershed Analysis for region no: 26 started
+29-Mar-2020 13:36:52: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 2
+29-Mar-2020 13:36:52: H1>singleregionsegmentor: Watershed Analysis results-> RBC:2
+29-Mar-2020 13:36:52: H1>analysproperties: "singleregionsegmentor" function called for main region no 26
+29-Mar-2020 13:36:52: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 26 & singleRegionAnalysisResult numObjects:2
+29-Mar-2020 13:36:52: H1>analysproperties: GLCM calculated for sub-region 1_region no: 26
+29-Mar-2020 13:36:52: H1>analysproperties: Is sub-region 2 that "singleregionsegmentor" function detected, an RBC?_region no: 26 & singleRegionAnalysisResult numObjects:2
+29-Mar-2020 13:36:52: H1>analysproperties: GLCM calculated for sub-region 2_region no: 26
+29-Mar-2020 13:36:52: H1: "singleregionsegmentor" function called for region no: 27
+29-Mar-2020 13:36:52: H1>singleregionsegmentor: Hough Transform Analysis for region no: 27 detected 1 centers
+29-Mar-2020 13:36:52: H1>singleregionsegmentor: Watershed Analysis for region no: 27 started
+29-Mar-2020 13:36:52: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:36:52: H1>analysproperties: "singleregionsegmentor" function called for main region no 27
+29-Mar-2020 13:36:52: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 27 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:36:52: H1>analysproperties: GLCM calculated for sub-region 1_region no: 27
+29-Mar-2020 13:36:52: H1: "singleregionsegmentor" function called for region no: 28
+29-Mar-2020 13:36:53: H1>singleregionsegmentor: Hough Transform Analysis for region no: 28 detected 1 centers
+29-Mar-2020 13:36:53: H1>singleregionsegmentor: Watershed Analysis for region no: 28 started
+29-Mar-2020 13:36:53: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:36:53: H1>analysproperties: "singleregionsegmentor" function called for main region no 28
+29-Mar-2020 13:36:53: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 28 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:36:53: H1>analysproperties: GLCM calculated for sub-region 1_region no: 28
+29-Mar-2020 13:36:53: H1: "singleregionsegmentor" function called for region no: 29
+29-Mar-2020 13:36:53: H1>singleregionsegmentor: Hough Transform Analysis for region no: 29 detected 1 centers
+29-Mar-2020 13:36:53: H1>singleregionsegmentor: Watershed Analysis for region no: 29 started
+29-Mar-2020 13:36:53: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:36:53: H1>analysproperties: "singleregionsegmentor" function called for main region no 29
+29-Mar-2020 13:36:53: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 29 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:36:53: H1>analysproperties: GLCM calculated for sub-region 1_region no: 29
+29-Mar-2020 13:36:53: H1: "singleregionsegmentor" function called for region no: 30
+29-Mar-2020 13:36:53: H1>singleregionsegmentor: Hough Transform Analysis for region no: 30 detected 1 centers
+29-Mar-2020 13:36:53: H1>singleregionsegmentor: Watershed Analysis for region no: 30 started
+29-Mar-2020 13:36:53: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:36:53: H1>analysproperties: "singleregionsegmentor" function called for main region no 30
+29-Mar-2020 13:36:53: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 30 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:36:53: H1>analysproperties: GLCM calculated for sub-region 1_region no: 30
+29-Mar-2020 13:36:53: H1: "singleregionsegmentor" function called for region no: 31
+29-Mar-2020 13:36:54: H1>singleregionsegmentor: Hough Transform Analysis for region no: 31 detected 1 centers
+29-Mar-2020 13:36:54: H1>singleregionsegmentor: Watershed Analysis for region no: 31 started
+29-Mar-2020 13:36:54: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:36:54: H1>analysproperties: "singleregionsegmentor" function called for main region no 31
+29-Mar-2020 13:36:54: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 31 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:36:54: H1>analysproperties: GLCM calculated for sub-region 1_region no: 31
+29-Mar-2020 13:36:54: H1: "singleregionsegmentor" function called for region no: 32
+29-Mar-2020 13:36:54: H1>singleregionsegmentor: Hough Transform Analysis for region no: 32 detected 1 centers
+29-Mar-2020 13:36:54: H1>singleregionsegmentor: Watershed Analysis for region no: 32 started
+29-Mar-2020 13:36:54: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:36:54: H1>analysproperties: "singleregionsegmentor" function called for main region no 32
+29-Mar-2020 13:36:54: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 32 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:36:54: H1>analysproperties: GLCM calculated for sub-region 1_region no: 32
+29-Mar-2020 13:36:54: H1: "singleregionsegmentor" function called for region no: 33
+29-Mar-2020 13:36:54: H1>singleregionsegmentor: Hough Transform Analysis for region no: 33 detected 1 centers
+29-Mar-2020 13:36:54: H1>singleregionsegmentor: Watershed Analysis for region no: 33 started
+29-Mar-2020 13:36:54: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:36:54: H1>analysproperties: "singleregionsegmentor" function called for main region no 33
+29-Mar-2020 13:36:55: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 33 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:36:55: H1>analysproperties: GLCM calculated for sub-region 1_region no: 33
+29-Mar-2020 13:36:55: H1: "singleregionsegmentor" function called for region no: 34
+29-Mar-2020 13:36:55: H1>singleregionsegmentor: Hough Transform Analysis for region no: 34 detected 2 centers
+29-Mar-2020 13:36:55: H1>singleregionsegmentor: Watershed Analysis for region no: 34 started
+29-Mar-2020 13:36:55: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 2
+29-Mar-2020 13:36:55: H1>singleregionsegmentor: Watershed Analysis results-> RBC:2
+29-Mar-2020 13:36:55: H1>analysproperties: "singleregionsegmentor" function called for main region no 34
+29-Mar-2020 13:36:55: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 34 & singleRegionAnalysisResult numObjects:2
+29-Mar-2020 13:36:55: H1>analysproperties: GLCM calculated for sub-region 1_region no: 34
+29-Mar-2020 13:36:55: H1>analysproperties: Is sub-region 2 that "singleregionsegmentor" function detected, an RBC?_region no: 34 & singleRegionAnalysisResult numObjects:2
+29-Mar-2020 13:36:55: H1>analysproperties: GLCM calculated for sub-region 2_region no: 34
+29-Mar-2020 13:36:55: H1: "singleregionsegmentor" function called for region no: 35
+29-Mar-2020 13:36:55: H1>singleregionsegmentor: Hough Transform Analysis for region no: 35 detected 1 centers
+29-Mar-2020 13:36:55: H1>singleregionsegmentor: Watershed Analysis for region no: 35 started
+29-Mar-2020 13:36:55: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:36:55: H1>analysproperties: "singleregionsegmentor" function called for main region no 35
+29-Mar-2020 13:36:55: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 35 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:36:55: H1>analysproperties: GLCM calculated for sub-region 1_region no: 35
+29-Mar-2020 13:36:55: H1: "singleregionsegmentor" function called for region no: 36
+29-Mar-2020 13:36:56: H1>singleregionsegmentor: Hough Transform Analysis for region no: 36 detected 1 centers
+29-Mar-2020 13:36:56: H1>singleregionsegmentor: Watershed Analysis for region no: 36 started
+29-Mar-2020 13:36:56: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:36:56: H1>analysproperties: "singleregionsegmentor" function called for main region no 36
+29-Mar-2020 13:36:56: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 36 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:36:56: H1>analysproperties: GLCM calculated for sub-region 1_region no: 36
+29-Mar-2020 13:36:56: H1: "singleregionsegmentor" function called for region no: 37
+29-Mar-2020 13:36:56: H1>singleregionsegmentor: Hough Transform Analysis for region no: 37 detected 1 centers
+29-Mar-2020 13:36:56: H1>singleregionsegmentor: Watershed Analysis for region no: 37 started
+29-Mar-2020 13:36:56: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:36:56: H1>analysproperties: "singleregionsegmentor" function called for main region no 37
+29-Mar-2020 13:36:56: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 37 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:36:56: H1>analysproperties: GLCM calculated for sub-region 1_region no: 37
+29-Mar-2020 13:36:56: H1: "singleregionsegmentor" function called for region no: 38
+29-Mar-2020 13:36:57: H1>singleregionsegmentor: Hough Transform Analysis for region no: 38 detected 1 centers
+29-Mar-2020 13:36:57: H1>singleregionsegmentor: Watershed Analysis for region no: 38 started
+29-Mar-2020 13:36:57: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:36:57: H1>analysproperties: "singleregionsegmentor" function called for main region no 38
+29-Mar-2020 13:36:57: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 38 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:36:57: H1>analysproperties: GLCM calculated for sub-region 1_region no: 38
+29-Mar-2020 13:36:57: H1: "singleregionsegmentor" function called for region no: 39
+29-Mar-2020 13:36:57: H1>singleregionsegmentor: Hough Transform Analysis for region no: 39 detected 1 centers
+29-Mar-2020 13:36:57: H1>singleregionsegmentor: Watershed Analysis for region no: 39 started
+29-Mar-2020 13:36:57: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:36:57: H1>analysproperties: "singleregionsegmentor" function called for main region no 39
+29-Mar-2020 13:36:57: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 39 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:36:57: H1>analysproperties: GLCM calculated for sub-region 1_region no: 39
+29-Mar-2020 13:36:57: H1: "singleregionsegmentor" function called for region no: 40
+29-Mar-2020 13:36:57: H1>singleregionsegmentor: Hough Transform Analysis for region no: 40 detected 1 centers
+29-Mar-2020 13:36:57: H1>singleregionsegmentor: Watershed Analysis for region no: 40 started
+29-Mar-2020 13:36:57: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:36:57: H1>analysproperties: "singleregionsegmentor" function called for main region no 40
+29-Mar-2020 13:36:57: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 40 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:36:57: H1>analysproperties: GLCM calculated for sub-region 1_region no: 40
+29-Mar-2020 13:36:57: H1: "singleregionsegmentor" function called for region no: 41
+29-Mar-2020 13:36:58: H1>singleregionsegmentor: Hough Transform Analysis for region no: 41 detected 1 centers
+29-Mar-2020 13:36:58: H1>singleregionsegmentor: Watershed Analysis for region no: 41 started
+29-Mar-2020 13:36:58: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:36:58: H1>analysproperties: "singleregionsegmentor" function called for main region no 41
+29-Mar-2020 13:36:58: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 41 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:36:58: H1>analysproperties: GLCM calculated for sub-region 1_region no: 41
+29-Mar-2020 13:36:58: H1: "singleregionsegmentor" function called for region no: 42
+29-Mar-2020 13:36:58: H1>singleregionsegmentor: Hough Transform Analysis for region no: 42 detected 1 centers
+29-Mar-2020 13:36:58: H1>singleregionsegmentor: Watershed Analysis for region no: 42 started
+29-Mar-2020 13:36:58: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:36:58: H1>analysproperties: "singleregionsegmentor" function called for main region no 42
+29-Mar-2020 13:36:58: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 42 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:36:58: H1>analysproperties: GLCM calculated for sub-region 1_region no: 42
+29-Mar-2020 13:36:58: H1: "singleregionsegmentor" function called for region no: 43
+29-Mar-2020 13:36:59: H1>singleregionsegmentor: Hough Transform Analysis for region no: 43 detected 1 centers
+29-Mar-2020 13:36:59: H1>singleregionsegmentor: Watershed Analysis for region no: 43 started
+29-Mar-2020 13:36:59: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:36:59: H1>analysproperties: "singleregionsegmentor" function called for main region no 43
+29-Mar-2020 13:36:59: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 43 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:36:59: H1>analysproperties: GLCM calculated for sub-region 1_region no: 43
+29-Mar-2020 13:36:59: H1: "singleregionsegmentor" function called for region no: 44
+29-Mar-2020 13:36:59: H1>singleregionsegmentor: Hough Transform Analysis for region no: 44 detected 1 centers
+29-Mar-2020 13:36:59: H1>singleregionsegmentor: Watershed Analysis for region no: 44 started
+29-Mar-2020 13:36:59: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:36:59: H1>analysproperties: "singleregionsegmentor" function called for main region no 44
+29-Mar-2020 13:36:59: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 44 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:36:59: H1>analysproperties: GLCM calculated for sub-region 1_region no: 44
+29-Mar-2020 13:36:59: H1: "singleregionsegmentor" function called for region no: 45
+29-Mar-2020 13:36:59: H1>singleregionsegmentor: Hough Transform Analysis for region no: 45 detected 1 centers
+29-Mar-2020 13:36:59: H1>singleregionsegmentor: Watershed Analysis for region no: 45 started
+29-Mar-2020 13:36:59: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:36:59: H1>analysproperties: "singleregionsegmentor" function called for main region no 45
+29-Mar-2020 13:36:59: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 45 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:36:59: H1>analysproperties: GLCM calculated for sub-region 1_region no: 45
+29-Mar-2020 13:36:59: H1: "singleregionsegmentor" function called for region no: 46
+29-Mar-2020 13:37:00: H1>singleregionsegmentor: Hough Transform Analysis for region no: 46 detected 1 centers
+29-Mar-2020 13:37:00: H1>singleregionsegmentor: Watershed Analysis for region no: 46 started
+29-Mar-2020 13:37:00: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:37:00: H1>analysproperties: "singleregionsegmentor" function called for main region no 46
+29-Mar-2020 13:37:00: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 46 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:37:00: H1>analysproperties: GLCM calculated for sub-region 1_region no: 46
+29-Mar-2020 13:37:00: H1: "singleregionsegmentor" function called for region no: 47
+29-Mar-2020 13:37:00: H1>singleregionsegmentor: Hough Transform Analysis for region no: 47 detected 1 centers
+29-Mar-2020 13:37:00: H1>singleregionsegmentor: Watershed Analysis for region no: 47 started
+29-Mar-2020 13:37:00: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:37:00: H1>analysproperties: "singleregionsegmentor" function called for main region no 47
+29-Mar-2020 13:37:00: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 47 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:37:00: H1>analysproperties: GLCM calculated for sub-region 1_region no: 47
+29-Mar-2020 13:37:00: H1: "singleregionsegmentor" function called for region no: 48
+29-Mar-2020 13:37:01: H1>singleregionsegmentor: Hough Transform Analysis for region no: 48 detected 1 centers
+29-Mar-2020 13:37:01: H1>singleregionsegmentor: Watershed Analysis for region no: 48 started
+29-Mar-2020 13:37:01: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:37:01: H1>analysproperties: "singleregionsegmentor" function called for main region no 48
+29-Mar-2020 13:37:01: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 48 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:37:01: H1>analysproperties: GLCM calculated for sub-region 1_region no: 48
+29-Mar-2020 13:37:01: H1: "singleregionsegmentor" function called for region no: 49
+29-Mar-2020 13:37:01: H1>singleregionsegmentor: Hough Transform Analysis for region no: 49 detected 1 centers
+29-Mar-2020 13:37:01: H1>singleregionsegmentor: Watershed Analysis for region no: 49 started
+29-Mar-2020 13:37:01: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:37:01: H1>analysproperties: "singleregionsegmentor" function called for main region no 49
+29-Mar-2020 13:37:01: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 49 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:37:01: H1>analysproperties: GLCM calculated for sub-region 1_region no: 49
+29-Mar-2020 13:37:01: H1: "singleregionsegmentor" function called for region no: 50
+29-Mar-2020 13:37:01: H1>singleregionsegmentor: Hough Transform Analysis for region no: 50 detected 1 centers
+29-Mar-2020 13:37:01: H1>singleregionsegmentor: Watershed Analysis for region no: 50 started
+29-Mar-2020 13:37:01: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:37:01: H1>analysproperties: "singleregionsegmentor" function called for main region no 50
+29-Mar-2020 13:37:01: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 50 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:37:01: H1>analysproperties: GLCM calculated for sub-region 1_region no: 50
+29-Mar-2020 13:37:01: H1: "singleregionsegmentor" function called for region no: 51
+29-Mar-2020 13:37:02: H1>singleregionsegmentor: Hough Transform Analysis for region no: 51 detected 1 centers
+29-Mar-2020 13:37:02: H1>singleregionsegmentor: Watershed Analysis for region no: 51 started
+29-Mar-2020 13:37:02: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:37:02: H1>analysproperties: "singleregionsegmentor" function called for main region no 51
+29-Mar-2020 13:37:02: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 51 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:37:02: H1>analysproperties: GLCM calculated for sub-region 1_region no: 51
+29-Mar-2020 13:37:02: H1: "singleregionsegmentor" function called for region no: 52
+29-Mar-2020 13:37:02: H1>singleregionsegmentor: Hough Transform Analysis for region no: 52 detected 1 centers
+29-Mar-2020 13:37:02: H1>singleregionsegmentor: Watershed Analysis for region no: 52 started
+29-Mar-2020 13:37:02: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:37:02: H1>analysproperties: "singleregionsegmentor" function called for main region no 52
+29-Mar-2020 13:37:02: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 52 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:37:02: H1>analysproperties: GLCM calculated for sub-region 1_region no: 52
+29-Mar-2020 13:37:02: H1: "singleregionsegmentor" function called for region no: 53
+29-Mar-2020 13:37:03: H1>singleregionsegmentor: Hough Transform Analysis for region no: 53 detected 1 centers
+29-Mar-2020 13:37:03: H1>singleregionsegmentor: Watershed Analysis for region no: 53 started
+29-Mar-2020 13:37:03: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:37:03: H1>analysproperties: "singleregionsegmentor" function called for main region no 53
+29-Mar-2020 13:37:03: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 53 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:37:03: H1>analysproperties: GLCM calculated for sub-region 1_region no: 53
+29-Mar-2020 13:37:03: H1: "singleregionsegmentor" function called for region no: 54
+29-Mar-2020 13:37:03: H1>singleregionsegmentor: Hough Transform Analysis for region no: 54 detected 0 centers
+29-Mar-2020 13:37:03: H1>singleregionsegmentor: Watershed Analysis for region no: 54 started
+29-Mar-2020 13:37:03: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 2
+29-Mar-2020 13:37:03: H1>singleregionsegmentor: Watershed Analysis results-> RBC:2
+29-Mar-2020 13:37:03: H1>analysproperties: "singleregionsegmentor" function called for main region no 54
+29-Mar-2020 13:37:03: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 54 & singleRegionAnalysisResult numObjects:2
+29-Mar-2020 13:37:03: H1>analysproperties: GLCM calculated for sub-region 1_region no: 54
+29-Mar-2020 13:37:03: H1>analysproperties: Is sub-region 2 that "singleregionsegmentor" function detected, an RBC?_region no: 54 & singleRegionAnalysisResult numObjects:2
+29-Mar-2020 13:37:03: H1>analysproperties: GLCM calculated for sub-region 2_region no: 54
+29-Mar-2020 13:37:03: H1: "singleregionsegmentor" function called for region no: 55
+29-Mar-2020 13:37:03: H1>singleregionsegmentor: Hough Transform Analysis for region no: 55 detected 1 centers
+29-Mar-2020 13:37:04: H1>singleregionsegmentor: Watershed Analysis for region no: 55 started
+29-Mar-2020 13:37:04: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:37:04: H1>analysproperties: "singleregionsegmentor" function called for main region no 55
+29-Mar-2020 13:37:04: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 55 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:37:04: H1>analysproperties: GLCM calculated for sub-region 1_region no: 55
+29-Mar-2020 13:37:04: H1: "singleregionsegmentor" function called for region no: 56
+29-Mar-2020 13:37:04: H1>singleregionsegmentor: Hough Transform Analysis for region no: 56 detected 1 centers
+29-Mar-2020 13:37:04: H1>singleregionsegmentor: Watershed Analysis for region no: 56 started
+29-Mar-2020 13:37:04: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:37:04: H1>analysproperties: "singleregionsegmentor" function called for main region no 56
+29-Mar-2020 13:37:04: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 56 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:37:04: H1>analysproperties: GLCM calculated for sub-region 1_region no: 56
+29-Mar-2020 13:37:04: H1: "singleregionsegmentor" function called for region no: 57
+29-Mar-2020 13:37:04: H1>singleregionsegmentor: Hough Transform Analysis for region no: 57 detected 1 centers
+29-Mar-2020 13:37:04: H1>singleregionsegmentor: Watershed Analysis for region no: 57 started
+29-Mar-2020 13:37:04: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:37:04: H1>analysproperties: "singleregionsegmentor" function called for main region no 57
+29-Mar-2020 13:37:04: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 57 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:37:04: H1>analysproperties: GLCM calculated for sub-region 1_region no: 57
+29-Mar-2020 13:37:04: H1: "singleregionsegmentor" function called for region no: 58
+29-Mar-2020 13:37:05: H1>singleregionsegmentor: Hough Transform Analysis for region no: 58 detected 1 centers
+29-Mar-2020 13:37:05: H1>singleregionsegmentor: Watershed Analysis for region no: 58 started
+29-Mar-2020 13:37:05: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:37:05: H1>analysproperties: "singleregionsegmentor" function called for main region no 58
+29-Mar-2020 13:37:05: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 58 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:37:05: H1>analysproperties: GLCM calculated for sub-region 1_region no: 58
+29-Mar-2020 13:37:05: H1: "singleregionsegmentor" function called for region no: 59
+29-Mar-2020 13:37:05: H1>singleregionsegmentor: Hough Transform Analysis for region no: 59 detected 1 centers
+29-Mar-2020 13:37:05: H1>singleregionsegmentor: Watershed Analysis for region no: 59 started
+29-Mar-2020 13:37:05: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:37:05: H1>analysproperties: "singleregionsegmentor" function called for main region no 59
+29-Mar-2020 13:37:05: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 59 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:37:05: H1>analysproperties: GLCM calculated for sub-region 1_region no: 59
+29-Mar-2020 13:37:05: H1: "singleregionsegmentor" function called for region no: 60
+29-Mar-2020 13:37:05: H1>singleregionsegmentor: Hough Transform Analysis for region no: 60 detected 1 centers
+29-Mar-2020 13:37:05: H1>singleregionsegmentor: Watershed Analysis for region no: 60 started
+29-Mar-2020 13:37:05: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:37:06: H1>analysproperties: "singleregionsegmentor" function called for main region no 60
+29-Mar-2020 13:37:06: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 60 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:37:06: H1>analysproperties: GLCM calculated for sub-region 1_region no: 60
+29-Mar-2020 13:37:06: H1: "singleregionsegmentor" function called for region no: 61
+29-Mar-2020 13:37:06: H1>singleregionsegmentor: Hough Transform Analysis for region no: 61 detected 1 centers
+29-Mar-2020 13:37:06: H1>singleregionsegmentor: Watershed Analysis for region no: 61 started
+29-Mar-2020 13:37:06: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:37:06: H1>analysproperties: "singleregionsegmentor" function called for main region no 61
+29-Mar-2020 13:37:06: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 61 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:37:06: H1>analysproperties: GLCM calculated for sub-region 1_region no: 61
+29-Mar-2020 13:37:06: H1: "singleregionsegmentor" function called for region no: 62
+29-Mar-2020 13:37:06: H1>singleregionsegmentor: Hough Transform Analysis for region no: 62 detected 1 centers
+29-Mar-2020 13:37:06: H1>singleregionsegmentor: Watershed Analysis for region no: 62 started
+29-Mar-2020 13:37:06: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:37:06: H1>analysproperties: "singleregionsegmentor" function called for main region no 62
+29-Mar-2020 13:37:06: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 62 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:37:06: H1>analysproperties: GLCM calculated for sub-region 1_region no: 62
+29-Mar-2020 13:37:06: H1: "singleregionsegmentor" function called for region no: 63
+29-Mar-2020 13:37:07: H1>singleregionsegmentor: Hough Transform Analysis for region no: 63 detected 1 centers
+29-Mar-2020 13:37:07: H1>singleregionsegmentor: Watershed Analysis for region no: 63 started
+29-Mar-2020 13:37:07: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:37:07: H1>analysproperties: "singleregionsegmentor" function called for main region no 63
+29-Mar-2020 13:37:07: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 63 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:37:07: H1>analysproperties: GLCM calculated for sub-region 1_region no: 63
+29-Mar-2020 13:37:07: H1: "singleregionsegmentor" function called for region no: 64
+29-Mar-2020 13:37:07: H1>singleregionsegmentor: Hough Transform Analysis for region no: 64 detected 1 centers
+29-Mar-2020 13:37:07: H1>singleregionsegmentor: Watershed Analysis for region no: 64 started
+29-Mar-2020 13:37:07: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:37:07: H1>analysproperties: "singleregionsegmentor" function called for main region no 64
+29-Mar-2020 13:37:07: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 64 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:37:07: H1>analysproperties: GLCM calculated for sub-region 1_region no: 64
+29-Mar-2020 13:37:07: H1: "singleregionsegmentor" function called for region no: 65
+29-Mar-2020 13:37:07: H1>singleregionsegmentor: Hough Transform Analysis for region no: 65 detected 1 centers
+29-Mar-2020 13:37:07: H1>singleregionsegmentor: Watershed Analysis for region no: 65 started
+29-Mar-2020 13:37:07: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:37:07: H1>analysproperties: "singleregionsegmentor" function called for main region no 65
+29-Mar-2020 13:37:08: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 65 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:37:08: H1>analysproperties: GLCM calculated for sub-region 1_region no: 65
+29-Mar-2020 13:37:08: H1: "singleregionsegmentor" function called for region no: 66
+29-Mar-2020 13:37:08: H1>singleregionsegmentor: Hough Transform Analysis for region no: 66 detected 1 centers
+29-Mar-2020 13:37:08: H1>singleregionsegmentor: Watershed Analysis for region no: 66 started
+29-Mar-2020 13:37:08: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:37:08: H1>analysproperties: "singleregionsegmentor" function called for main region no 66
+29-Mar-2020 13:37:08: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 66 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:37:08: H1>analysproperties: GLCM calculated for sub-region 1_region no: 66
+29-Mar-2020 13:37:08: H1: "singleregionsegmentor" function called for region no: 67
+29-Mar-2020 13:37:08: H1>singleregionsegmentor: Hough Transform Analysis for region no: 67 detected 1 centers
+29-Mar-2020 13:37:08: H1>singleregionsegmentor: Watershed Analysis for region no: 67 started
+29-Mar-2020 13:37:08: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:37:08: H1>analysproperties: "singleregionsegmentor" function called for main region no 67
+29-Mar-2020 13:37:08: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 67 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:37:08: H1>analysproperties: GLCM calculated for sub-region 1_region no: 67
+29-Mar-2020 13:37:08: H1: "singleregionsegmentor" function called for region no: 68
+29-Mar-2020 13:37:09: H1>singleregionsegmentor: Hough Transform Analysis for region no: 68 detected 1 centers
+29-Mar-2020 13:37:09: H1>singleregionsegmentor: Watershed Analysis for region no: 68 started
+29-Mar-2020 13:37:09: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:37:09: H1>analysproperties: "singleregionsegmentor" function called for main region no 68
+29-Mar-2020 13:37:09: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 68 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:37:09: H1>analysproperties: GLCM calculated for sub-region 1_region no: 68
+29-Mar-2020 13:37:09: H1: "singleregionsegmentor" function called for region no: 69
+29-Mar-2020 13:37:09: H1>singleregionsegmentor: Hough Transform Analysis for region no: 69 detected 1 centers
+29-Mar-2020 13:37:09: H1>singleregionsegmentor: Watershed Analysis for region no: 69 started
+29-Mar-2020 13:37:09: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:37:09: H1>analysproperties: "singleregionsegmentor" function called for main region no 69
+29-Mar-2020 13:37:09: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 69 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:37:09: H1>analysproperties: GLCM calculated for sub-region 1_region no: 69
+29-Mar-2020 13:37:09: H1: "singleregionsegmentor" function called for region no: 70
+29-Mar-2020 13:37:09: H1>singleregionsegmentor: Hough Transform Analysis for region no: 70 detected 3 centers
+29-Mar-2020 13:37:09: H1>singleregionsegmentor: Watershed Analysis for region no: 70 started
+29-Mar-2020 13:37:10: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 2
+29-Mar-2020 13:37:10: H1>singleregionsegmentor: Watershed Analysis results-> RBC:2
+29-Mar-2020 13:37:10: H1>analysproperties: "singleregionsegmentor" function called for main region no 70
+29-Mar-2020 13:37:10: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 70 & singleRegionAnalysisResult numObjects:2
+29-Mar-2020 13:37:10: H1>analysproperties: GLCM calculated for sub-region 1_region no: 70
+29-Mar-2020 13:37:10: H1>analysproperties: Is sub-region 2 that "singleregionsegmentor" function detected, an RBC?_region no: 70 & singleRegionAnalysisResult numObjects:2
+29-Mar-2020 13:37:10: H1>analysproperties: GLCM calculated for sub-region 2_region no: 70
+29-Mar-2020 13:37:10: H1: "singleregionsegmentor" function called for region no: 71
+29-Mar-2020 13:37:10: H1>singleregionsegmentor: Hough Transform Analysis for region no: 71 detected 1 centers
+29-Mar-2020 13:37:10: H1>singleregionsegmentor: Watershed Analysis for region no: 71 started
+29-Mar-2020 13:37:10: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:37:10: H1>analysproperties: "singleregionsegmentor" function called for main region no 71
+29-Mar-2020 13:37:10: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 71 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:37:10: H1>analysproperties: GLCM calculated for sub-region 1_region no: 71
+29-Mar-2020 13:37:10: H1: "singleregionsegmentor" function called for region no: 72
+29-Mar-2020 13:37:10: H1>singleregionsegmentor: Hough Transform Analysis for region no: 72 detected 1 centers
+29-Mar-2020 13:37:10: H1>singleregionsegmentor: Watershed Analysis for region no: 72 started
+29-Mar-2020 13:37:10: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:37:10: H1>analysproperties: "singleregionsegmentor" function called for main region no 72
+29-Mar-2020 13:37:10: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 72 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:37:10: H1>analysproperties: GLCM calculated for sub-region 1_region no: 72
+29-Mar-2020 13:37:11: H1: "singleregionsegmentor" function called for region no: 73
+29-Mar-2020 13:37:11: H1>singleregionsegmentor: Hough Transform Analysis for region no: 73 detected 1 centers
+29-Mar-2020 13:37:11: H1>singleregionsegmentor: Watershed Analysis for region no: 73 started
+29-Mar-2020 13:37:11: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:37:11: H1>analysproperties: "singleregionsegmentor" function called for main region no 73
+29-Mar-2020 13:37:11: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 73 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:37:11: H1>analysproperties: GLCM calculated for sub-region 1_region no: 73
+29-Mar-2020 13:37:11: H1: "singleregionsegmentor" function called for region no: 74
+29-Mar-2020 13:37:11: H1>singleregionsegmentor: Hough Transform Analysis for region no: 74 detected 1 centers
+29-Mar-2020 13:37:11: H1>singleregionsegmentor: Watershed Analysis for region no: 74 started
+29-Mar-2020 13:37:11: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:37:11: H1>analysproperties: "singleregionsegmentor" function called for main region no 74
+29-Mar-2020 13:37:11: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 74 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:37:11: H1>analysproperties: GLCM calculated for sub-region 1_region no: 74
+29-Mar-2020 13:37:11: H1: "singleregionsegmentor" function called for region no: 75
+29-Mar-2020 13:37:12: H1>singleregionsegmentor: Hough Transform Analysis for region no: 75 detected 1 centers
+29-Mar-2020 13:37:12: H1>singleregionsegmentor: Watershed Analysis for region no: 75 started
+29-Mar-2020 13:37:12: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:37:12: H1>analysproperties: "singleregionsegmentor" function called for main region no 75
+29-Mar-2020 13:37:12: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 75 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:37:12: H1>analysproperties: GLCM calculated for sub-region 1_region no: 75
+29-Mar-2020 13:37:12: H1: "singleregionsegmentor" function called for region no: 76
+29-Mar-2020 13:37:12: H1>singleregionsegmentor: Hough Transform Analysis for region no: 76 detected 1 centers
+29-Mar-2020 13:37:12: H1>singleregionsegmentor: Watershed Analysis for region no: 76 started
+29-Mar-2020 13:37:12: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:37:12: H1>analysproperties: "singleregionsegmentor" function called for main region no 76
+29-Mar-2020 13:37:12: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 76 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:37:12: H1>analysproperties: GLCM calculated for sub-region 1_region no: 76
+29-Mar-2020 13:37:12: H1: "singleregionsegmentor" function called for region no: 77
+29-Mar-2020 13:37:12: H1>singleregionsegmentor: Hough Transform Analysis for region no: 77 detected 1 centers
+29-Mar-2020 13:37:12: H1>singleregionsegmentor: Watershed Analysis for region no: 77 started
+29-Mar-2020 13:37:12: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:37:12: H1>analysproperties: "singleregionsegmentor" function called for main region no 77
+29-Mar-2020 13:37:12: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 77 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:37:13: H1>analysproperties: GLCM calculated for sub-region 1_region no: 77
+29-Mar-2020 13:37:13: H1: "singleregionsegmentor" function called for region no: 78
+29-Mar-2020 13:37:13: H1>singleregionsegmentor: Hough Transform Analysis for region no: 78 detected 1 centers
+29-Mar-2020 13:37:13: H1>singleregionsegmentor: Watershed Analysis for region no: 78 started
+29-Mar-2020 13:37:13: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:37:13: H1>analysproperties: "singleregionsegmentor" function called for main region no 78
+29-Mar-2020 13:37:13: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 78 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:37:13: H1>analysproperties: GLCM calculated for sub-region 1_region no: 78
+29-Mar-2020 13:37:13: H1: "singleregionsegmentor" function called for region no: 79
+29-Mar-2020 13:37:13: H1>singleregionsegmentor: Hough Transform Analysis for region no: 79 detected 1 centers
+29-Mar-2020 13:37:13: H1>singleregionsegmentor: Watershed Analysis for region no: 79 started
+29-Mar-2020 13:37:13: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:37:13: H1>analysproperties: "singleregionsegmentor" function called for main region no 79
+29-Mar-2020 13:37:13: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 79 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:37:13: H1>analysproperties: GLCM calculated for sub-region 1_region no: 79
+29-Mar-2020 13:37:13: H1: "singleregionsegmentor" function called for region no: 80
+29-Mar-2020 13:37:14: H1>singleregionsegmentor: Hough Transform Analysis for region no: 80 detected 1 centers
+29-Mar-2020 13:37:14: H1>singleregionsegmentor: Watershed Analysis for region no: 80 started
+29-Mar-2020 13:37:14: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:37:14: H1>analysproperties: "singleregionsegmentor" function called for main region no 80
+29-Mar-2020 13:37:14: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 80 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:37:14: H1>analysproperties: GLCM calculated for sub-region 1_region no: 80
+29-Mar-2020 13:37:14: H1: "singleregionsegmentor" function called for region no: 81
+29-Mar-2020 13:37:14: H1>singleregionsegmentor: Hough Transform Analysis for region no: 81 detected 1 centers
+29-Mar-2020 13:37:14: H1>singleregionsegmentor: Watershed Analysis for region no: 81 started
+29-Mar-2020 13:37:14: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:37:14: H1>analysproperties: "singleregionsegmentor" function called for main region no 81
+29-Mar-2020 13:37:14: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 81 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:37:14: H1>analysproperties: GLCM calculated for sub-region 1_region no: 81
+29-Mar-2020 13:37:14: H1: "singleregionsegmentor" function called for region no: 82
+29-Mar-2020 13:37:14: H1>singleregionsegmentor: Hough Transform Analysis for region no: 82 detected 1 centers
+29-Mar-2020 13:37:14: H1>singleregionsegmentor: Watershed Analysis for region no: 82 started
+29-Mar-2020 13:37:14: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:37:15: H1>analysproperties: "singleregionsegmentor" function called for main region no 82
+29-Mar-2020 13:37:15: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 82 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:37:15: H1>analysproperties: GLCM calculated for sub-region 1_region no: 82
+29-Mar-2020 13:37:15: H1: "singleregionsegmentor" function called for region no: 83
+29-Mar-2020 13:37:15: H1>singleregionsegmentor: Hough Transform Analysis for region no: 83 detected 1 centers
+29-Mar-2020 13:37:15: H1>singleregionsegmentor: Watershed Analysis for region no: 83 started
+29-Mar-2020 13:37:15: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:37:15: H1>analysproperties: "singleregionsegmentor" function called for main region no 83
+29-Mar-2020 13:37:15: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 83 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:37:15: H1>analysproperties: GLCM calculated for sub-region 1_region no: 83
+29-Mar-2020 13:37:15: H1: "singleregionsegmentor" function called for region no: 84
+29-Mar-2020 13:37:15: H1>singleregionsegmentor: Hough Transform Analysis for region no: 84 detected 1 centers
+29-Mar-2020 13:37:15: H1>singleregionsegmentor: Watershed Analysis for region no: 84 started
+29-Mar-2020 13:37:15: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:37:15: H1>analysproperties: "singleregionsegmentor" function called for main region no 84
+29-Mar-2020 13:37:15: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 84 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:37:15: H1>analysproperties: GLCM calculated for sub-region 1_region no: 84
+29-Mar-2020 13:37:15: H1: "singleregionsegmentor" function called for region no: 85
+29-Mar-2020 13:37:16: H1>singleregionsegmentor: Hough Transform Analysis for region no: 85 detected 1 centers
+29-Mar-2020 13:37:16: H1>singleregionsegmentor: Watershed Analysis for region no: 85 started
+29-Mar-2020 13:37:16: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:37:16: H1>analysproperties: "singleregionsegmentor" function called for main region no 85
+29-Mar-2020 13:37:16: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 85 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:37:16: H1>analysproperties: GLCM calculated for sub-region 1_region no: 85
+29-Mar-2020 13:37:16: H1: "singleregionsegmentor" function called for region no: 86
+29-Mar-2020 13:37:16: H1>singleregionsegmentor: Hough Transform Analysis for region no: 86 detected 1 centers
+29-Mar-2020 13:37:16: H1>singleregionsegmentor: Watershed Analysis for region no: 86 started
+29-Mar-2020 13:37:16: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:37:16: H1>analysproperties: "singleregionsegmentor" function called for main region no 86
+29-Mar-2020 13:37:16: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 86 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:37:16: H1>analysproperties: GLCM calculated for sub-region 1_region no: 86
+29-Mar-2020 13:37:16: H1: "singleregionsegmentor" function called for region no: 87
+29-Mar-2020 13:37:17: H1>singleregionsegmentor: Hough Transform Analysis for region no: 87 detected 1 centers
+29-Mar-2020 13:37:17: H1>singleregionsegmentor: Watershed Analysis for region no: 87 started
+29-Mar-2020 13:37:17: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:37:17: H1>analysproperties: "singleregionsegmentor" function called for main region no 87
+29-Mar-2020 13:37:17: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 87 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:37:17: H1>analysproperties: GLCM calculated for sub-region 1_region no: 87
+29-Mar-2020 13:37:17: H1: "singleregionsegmentor" function called for region no: 88
+29-Mar-2020 13:37:17: H1>singleregionsegmentor: Hough Transform Analysis for region no: 88 detected 1 centers
+29-Mar-2020 13:37:17: H1>singleregionsegmentor: Watershed Analysis for region no: 88 started
+29-Mar-2020 13:37:17: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:37:17: H1>analysproperties: "singleregionsegmentor" function called for main region no 88
+29-Mar-2020 13:37:17: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 88 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:37:17: H1>analysproperties: GLCM calculated for sub-region 1_region no: 88
+29-Mar-2020 13:37:17: H1: "singleregionsegmentor" function called for region no: 89
+29-Mar-2020 13:37:17: H1>singleregionsegmentor: Hough Transform Analysis for region no: 89 detected 1 centers
+29-Mar-2020 13:37:17: H1>singleregionsegmentor: Watershed Analysis for region no: 89 started
+29-Mar-2020 13:37:17: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:37:17: H1>analysproperties: "singleregionsegmentor" function called for main region no 89
+29-Mar-2020 13:37:17: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 89 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:37:17: H1>analysproperties: GLCM calculated for sub-region 1_region no: 89
+29-Mar-2020 13:37:17: H1: "singleregionsegmentor" function called for region no: 90
+29-Mar-2020 13:37:18: H1>singleregionsegmentor: Hough Transform Analysis for region no: 90 detected 1 centers
+29-Mar-2020 13:37:18: H1>singleregionsegmentor: Watershed Analysis for region no: 90 started
+29-Mar-2020 13:37:18: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:37:18: H1>analysproperties: "singleregionsegmentor" function called for main region no 90
+29-Mar-2020 13:37:18: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 90 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:37:18: H1>analysproperties: GLCM calculated for sub-region 1_region no: 90
+29-Mar-2020 13:37:18: H1: "singleregionsegmentor" function called for region no: 91
+29-Mar-2020 13:37:18: H1>singleregionsegmentor: Hough Transform Analysis for region no: 91 detected 1 centers
+29-Mar-2020 13:37:18: H1>singleregionsegmentor: Watershed Analysis for region no: 91 started
+29-Mar-2020 13:37:18: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:37:18: H1>analysproperties: "singleregionsegmentor" function called for main region no 91
+29-Mar-2020 13:37:18: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 91 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:37:18: H1>analysproperties: GLCM calculated for sub-region 1_region no: 91
+29-Mar-2020 13:37:18: H1: "singleregionsegmentor" function called for region no: 92
+29-Mar-2020 13:37:19: H1>singleregionsegmentor: Hough Transform Analysis for region no: 92 detected 1 centers
+29-Mar-2020 13:37:19: H1>singleregionsegmentor: Watershed Analysis for region no: 92 started
+29-Mar-2020 13:37:19: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:37:19: H1>analysproperties: "singleregionsegmentor" function called for main region no 92
+29-Mar-2020 13:37:19: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 92 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:37:19: H1>analysproperties: GLCM calculated for sub-region 1_region no: 92
+29-Mar-2020 13:37:19: H1: "singleregionsegmentor" function called for region no: 93
+29-Mar-2020 13:37:19: H1>singleregionsegmentor: Hough Transform Analysis for region no: 93 detected 1 centers
+29-Mar-2020 13:37:19: H1>singleregionsegmentor: Watershed Analysis for region no: 93 started
+29-Mar-2020 13:37:19: H1>singleregionsegmentor: Number of Watershed Analysis detected regions is 1
+29-Mar-2020 13:37:19: H1>analysproperties: "singleregionsegmentor" function called for main region no 93
+29-Mar-2020 13:37:19: H1>analysproperties: Is sub-region 1 that "singleregionsegmentor" function detected, an RBC?_region no: 93 & singleRegionAnalysisResult numObjects:1
+29-Mar-2020 13:37:19: H1>analysproperties: GLCM calculated for sub-region 1_region no: 93
+29-Mar-2020 13:37:19: H1: "analysproperties" function execution finished.
+29-Mar-2020 13:37:19: H1: software segmentation process finished.
+29-Mar-2020 13:38:03: H1: "save progress" botton pressed.
+29-Mar-2020 13:38:03: H1: "saveworkspace" function called.
