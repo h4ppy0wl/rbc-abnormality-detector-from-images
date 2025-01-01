@@ -1,6 +1,7 @@
 # RBC Counting and Abnormality Detection from Smartphone Images
 
 This repository contains a MATLAB implementation for automated Red Blood Cell (RBC) counting and abnormality detection from images captured using a smartphone camera attached to a medical lab microscope. This project, originally developed offline, is now being shared publicly.
+
 <img src="https://github.com/h4ppy0wl/myMaterials/blob/main/H1_project_icon.png">
 
 ## Overview
@@ -11,6 +12,7 @@ This project aims to provide a cost-effective and accessible solution for RBC an
 2.  **RBC ANFIS:** An ANFIS (Adaptive Neuro-Fuzzy Inference System) based solution for automated abnormality detection, utilizing the data collected and annotated by experts using H1.
 
 ## H1 (Expert Knowledge Collector)
+
 <img src="https://github.com/h4ppy0wl/myMaterials/blob/main/H1_app_operator_inital_analysis.png">
 This application serves as a crucial bridge between raw microscope images and the automated classification system. It provides a user-friendly interface for processing individual images and collecting expert knowledge. The workflow includes the following key steps:
 
@@ -26,7 +28,9 @@ This application serves as a crucial bridge between raw microscope images and th
 *   **Expert Annotation:** A dedicated GUI within H1 allows medical experts to visually inspect each extracted RBC and classify it based on established medical criteria. The expert can categorize cells as Normal, or identify specific abnormalities such as Target cells, Spherocytes, Hyperchromic cells, or Hypochromic cells. An "Unknown" category is also available for ambiguous cases. This expert annotation provides the ground truth data for training the RBC ANFIS model. The application also records cell counts within each processed image.
 *   **Data Management:** All processing settings, extracted features, expert annotations, and cell counts are stored in a structured `.mat` file format. This allows for easy storage, retrieval, and transfer of data between H1 and the RBC ANFIS application. The application allows saving and loading of analysis progress.
 <img src="https://github.com/h4ppy0wl/myMaterials/blob/main/H1_Operator_app_options.png">
+
 ## RBC ANFIS
+
 <img src="https://github.com/h4ppy0wl/myMaterials/blob/main/RBC_ANFIS_app_ss.png">
 The RBC ANFIS application leverages the expert-annotated data collected by H1 to train an Adaptive Neuro-Fuzzy Inference System (ANFIS) for automated RBC abnormality detection. This system aims to mimic the human-in-the-loop approach used in commercial hematology analyzers, where human experts validate and refine the system's performance.
 
