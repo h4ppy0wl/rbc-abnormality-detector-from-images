@@ -67,11 +67,7 @@ This project was developed as part of [mention the context, e.g., a university p
 
 1.  Clone the repository: `git clone https://github.com/[YourUsername]/[YourRepository].git`
 2.  Open MATLAB 2018b and navigate to the project directory.
-3.  Refer to the documentation within the repository (e.g., README files within subfolders) for specific instructions on running H1 and RBC ANFIS.
-
-## Example Images
-
-[Placeholder for adding example images or a link to a folder containing images. Screenshots of the GUIs would be very helpful here!]
+3.  Run H1 and RBC ANFIS.
 
 ## Theories Used
 
